@@ -19,4 +19,5 @@ Koltuk Seçme Ekranı
 
 
 Bilet Ekranı
+
 <img src="https://github.com/hsefakcay/event_ticket_app/assets/121294367/c424f776-c676-483e-9ad2-a9420f17872e" width=300 height=500>
