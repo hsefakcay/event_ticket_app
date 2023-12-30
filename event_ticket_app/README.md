@@ -1,16 +1,16 @@
-# event_ticket_app
+Event Ticket App
 
-A new Flutter project.
+Bu uygulama, etkinlik biletleri satın almanızı ve yönetmenizi sağlar.
 
-## Getting Started
+Ekran Görüntüleri
+Ana Sayfa
+![image](https://github.com/hsefakcay/event_ticket_app/assets/121294367/09ab6d3b-4cf5-42b8-a016-b46c4c21cb7d)
 
-This project is a starting point for a Flutter application.
+Koltuk Seçme Ekranı
+![image](https://github.com/hsefakcay/event_ticket_app/assets/121294367/59497c26-c80c-4b84-88c8-96550266bbbb)
 
-A few resources to get you started if this is your first Flutter project:
+Ödeme Ekranı
+![image](https://github.com/hsefakcay/event_ticket_app/assets/121294367/df72e2f5-1258-416d-a038-616d8a240e15)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bilet Ekranı
+![image](https://github.com/hsefakcay/event_ticket_app/assets/121294367/c424f776-c676-483e-9ad2-a9420f17872e)
